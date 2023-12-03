@@ -1,2 +1,2 @@
 I love elinor 
-feature 1
+feature 2
